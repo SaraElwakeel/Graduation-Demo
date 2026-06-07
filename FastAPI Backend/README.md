@@ -1,8 +1,6 @@
 # Guardian Eye — FastAPI Backend
 
-Violence detection demo backend for the ST-HGT graduation project.  
-Supervised by Dr. Ahmed Zaky Bayoumy · EJUST CSIT AI & Data Science.
-
+Violence detection demo backend
 ---
 
 ## What this is
